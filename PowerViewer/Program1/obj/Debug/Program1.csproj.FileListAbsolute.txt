@@ -1,0 +1,40 @@
+C:\Users\lwetz\Documents\Visual Studio 2017\Projects\Program1\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+C:\Users\lwetz\Documents\Visual Studio 2017\Projects\Program1\Program1\obj\Debug\Program1.frmPower.resources
+C:\Users\lwetz\Documents\Visual Studio 2017\Projects\Program1\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Users\lwetz\Documents\Visual Studio 2017\Projects\Program1\Program1\obj\Debug\Program1.csproj.GenerateResource.Cache
+C:\Users\lwetz\Documents\Visual Studio 2017\Projects\Program1\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\C#\Program1\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+C:\C#\Program1\Program1\obj\Debug\Program1.frmPower.resources
+C:\C#\Program1\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\C#\Program1\Program1\obj\Debug\Program1.csproj.GenerateResource.Cache
+C:\C#\Program1\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+F:\C#\Program1\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+F:\C#\Program1\Program1\obj\Debug\Program1.frmPower.resources
+F:\C#\Program1\Program1\obj\Debug\Program1.Properties.Resources.resources
+F:\C#\Program1\Program1\obj\Debug\Program1.csproj.GenerateResource.Cache
+F:\C#\Program1\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+F:\C#\Program1\Program1\bin\Debug\Program1.exe.config
+F:\C#\Program1\Program1\bin\Debug\Program1.exe
+F:\C#\Program1\Program1\bin\Debug\Program1.pdb
+F:\C#\Program1\Program1\obj\Debug\Program1.exe
+F:\C#\Program1\Program1\obj\Debug\Program1.pdb
+G:\C#\Program1\Program1\bin\Debug\Program1.exe.config
+G:\C#\Program1\Program1\bin\Debug\Program1.exe
+G:\C#\Program1\Program1\bin\Debug\Program1.pdb
+G:\C#\Program1\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+G:\C#\Program1\Program1\obj\Debug\Program1.frmPower.resources
+G:\C#\Program1\Program1\obj\Debug\Program1.Properties.Resources.resources
+G:\C#\Program1\Program1\obj\Debug\Program1.csproj.GenerateResource.Cache
+G:\C#\Program1\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+G:\C#\Program1\Program1\obj\Debug\Program1.exe
+G:\C#\Program1\Program1\obj\Debug\Program1.pdb
+H:\C#\PowerViewer\Program1\bin\Debug\Program1.exe.config
+H:\C#\PowerViewer\Program1\bin\Debug\Program1.exe
+H:\C#\PowerViewer\Program1\bin\Debug\Program1.pdb
+H:\C#\PowerViewer\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+H:\C#\PowerViewer\Program1\obj\Debug\Program1.frmPower.resources
+H:\C#\PowerViewer\Program1\obj\Debug\Program1.Properties.Resources.resources
+H:\C#\PowerViewer\Program1\obj\Debug\Program1.csproj.GenerateResource.Cache
+H:\C#\PowerViewer\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+H:\C#\PowerViewer\Program1\obj\Debug\Program1.exe
+H:\C#\PowerViewer\Program1\obj\Debug\Program1.pdb

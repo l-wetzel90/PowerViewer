@@ -1,0 +1,1 @@
+I put the cvs file in the program files. The directory is set for my thumb drive H:.
